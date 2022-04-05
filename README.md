@@ -9,6 +9,7 @@ There are two main functions: `flatHeights` to obtain the height of different bl
 
 The other one is `measure`, which gets detailed information about one block of text:
 
+- TEST Change
 - The width used by the text, with an option to calculate the real width of the largest line.
 - The height of the text, with or without paddings.
 - The number of lines.
